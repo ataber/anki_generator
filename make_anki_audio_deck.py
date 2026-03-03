@@ -254,8 +254,22 @@ def build_model(
     *,
     text_field_name: str = "Text",
     english_field_name: str = "English",
+    reverse: bool = False,
 ) -> genanki.Model:
     """Create an Anki model. Field names are configurable."""
+    templates = [
+        {
+            "name": "Recognition",
+            "qfmt": f"{{{{{text_field_name}}}}}<br>{{{{Audio}}}}<div style='font-size:12px;opacity:0.7'>{{{{Level}}}}</div>",
+            "afmt": f"{{{{FrontSide}}}}<hr>{{{{{english_field_name}}}}}",
+        }
+    ]
+    if reverse:
+        templates.append({
+            "name": "Recall",
+            "qfmt": f"{{{{{english_field_name}}}}}<div style='font-size:12px;opacity:0.7'>{{{{Level}}}}</div>",
+            "afmt": f"{{{{FrontSide}}}}<hr>{{{{{text_field_name}}}}}<br>{{{{Audio}}}}",
+        })
     return genanki.Model(
         model_id,
         model_name,
@@ -265,13 +279,7 @@ def build_model(
             {"name": english_field_name},
             {"name": "Audio"},
         ],
-        templates=[
-            {
-                "name": "Card 1",
-                "qfmt": f"{{{{{text_field_name}}}}}<br>{{{{Audio}}}}<div style='font-size:12px;opacity:0.7'>{{{{Level}}}}</div>",
-                "afmt": f"{{{{FrontSide}}}}<hr>{{{{{english_field_name}}}}}",
-            }
-        ],
+        templates=templates,
     )
 
 
@@ -297,6 +305,9 @@ def main():
 
     p.add_argument("--media-dir", type=Path, default=Path("media"), help="Directory for generated audio files.")
     p.add_argument("--output", type=Path, default=Path("deck_WITH_AUDIO.apkg"), help="Output .apkg path.")
+
+    # Card directions
+    p.add_argument("--reverse", action="store_true", help="Add reverse cards (English → target language).")
 
     # Deck config
     p.add_argument("--deck-name", type=str, default="Language Sentences (Audio)")
@@ -396,6 +407,7 @@ def main():
         args.model_name,
         text_field_name=args.anki_text_field,
         english_field_name=args.anki_english_field,
+        reverse=args.reverse,
     )
     deck = genanki.Deck(args.deck_id, args.deck_name)
 
