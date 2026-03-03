@@ -1,0 +1,681 @@
+Level,Greek,Natural English Translation
+A1,Μένω σε ένα παλιό κτίριο κοντά στο κέντρο της πόλης.,I live in an old building near the city center.
+A1,Η αδελφή μου σπουδάζει βιολογία στο πανεπιστήμιο.,My sister studies biology at the university.
+A1,Κάθε πρωί αγοράζω εφημερίδα από το περίπτερο.,Every morning I buy a newspaper from the kiosk.
+A1,Το λεωφορείο σταματά μπροστά στο μουσείο.,The bus stops in front of the museum.
+A1,Προτιμώ το τσάι χωρίς ζάχαρη.,I prefer tea without sugar.
+A1,Ο γείτονάς μας παίζει πιάνο τα βράδια.,Our neighbor plays piano in the evenings.
+A1,Το κατάστημα πουλάει φρέσκα λαχανικά και φρούτα.,The shop sells fresh vegetables and fruit.
+A1,Διαβάζω ένα άρθρο για την κλιματική αλλαγή.,I am reading an article about climate change.
+A1,Η συνάντηση αρχίζει στις δέκα και τελειώνει στις δώδεκα.,The meeting starts at ten and ends at twelve.
+A1,Πηγαίνουμε συχνά για περπάτημα δίπλα στη θάλασσα.,We often go for a walk by the sea.
+A1,Το παιδί ζωγραφίζει μια εικόνα με έντονα χρώματα.,The child draws a picture with bright colors.
+A1,Η δασκάλα εξηγεί την άσκηση με απλό τρόπο.,The teacher explains the exercise in a simple way.
+A1,Φοράω ένα ζεστό μπουφάν γιατί κάνει κρύο.,I wear a warm jacket because it is cold.
+A1,Περιμένουμε το τρένο στην αποβάθρα τρία.,We are waiting for the train on platform three.
+A1,Το εστιατόριο προσφέρει παραδοσιακά ελληνικά πιάτα.,The restaurant offers traditional Greek dishes.
+A1,Ο πατέρας μου εργάζεται σε μια μεγάλη εταιρεία.,My father works at a large company.
+A1,Η μητέρα μου διαβάζει ένα μυθιστόρημα.,My mother is reading a novel.
+A1,Το ξενοδοχείο βρίσκεται κοντά στο λιμάνι.,The hotel is located near the port.
+A1,Ακούω μουσική ενώ μαγειρεύω.,I listen to music while cooking.
+A1,Το αεροπλάνο αναχωρεί στις έξι το απόγευμα.,The airplane departs at six in the afternoon.
+A1,Το μάθημα διαρκεί περίπου δύο ώρες.,The lesson lasts about two hours.
+A1,Συναντώ έναν παλιό φίλο στο καφέ.,I meet an old friend at the café.
+A1,Το φαρμακείο ανοίγει στις οκτώ το πρωί.,The pharmacy opens at eight in the morning.
+A1,Ο γιατρός εξετάζει τον ασθενή.,The doctor examines the patient.
+A1,Γράφουμε σημειώσεις κατά τη διάρκεια του μαθήματος.,We take notes during the lesson.
+A1,Το νησί έχει όμορφες παραλίες.,The island has beautiful beaches.
+A1,Η βιβλιοθήκη κλείνει νωρίς το Σάββατο.,The library closes early on Saturday.
+A1,Ο φοιτητής κάνει ερωτήσεις στον καθηγητή.,The student asks questions to the professor.
+A1,Το παιδί κοιμάται ήσυχα στο δωμάτιό του.,The child sleeps quietly in his room.
+A1,Η αγορά είναι γεμάτη κόσμο.,The market is full of people.
+A1,Παραγγέλνω ένα σάντουιτς και έναν χυμό.,I order a sandwich and a juice.
+A1,Η πόλη διαθέτει πολλά ιστορικά κτίρια.,The city has many historic buildings.
+A1,Το πρόγραμμα αρχίζει αύριο.,The program starts tomorrow.
+A1,Μαθαίνω νέες λέξεις κάθε μέρα.,I learn new words every day.
+A1,Το δωμάτιο έχει θέα στο βουνό.,The room has a view of the mountain.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A1,Το εργοστάσιο παράγει ηλεκτρικές συσκευές.,The factory produces electrical appliances.
+A1,Ο μαθητής απαντά σωστά στην ερώτηση.,The student answers the question correctly.
+A1,Η εταιρεία οργανώνει ένα σεμινάριο.,The company organizes a seminar.
+A1,Το καλοκαίρι ταξιδεύουμε σε ένα νησί.,In the summer we travel to an island.
+A1,Η συνταγή χρειάζεται φρέσκα υλικά.,The recipe requires fresh ingredients.
+A1,Ο τουρίστας φωτογραφίζει το μνημείο.,The tourist photographs the monument.
+A1,Η σερβιτόρα φέρνει τον λογαριασμό.,The waitress brings the bill.
+A1,Το μουσείο φιλοξενεί μια έκθεση ζωγραφικής.,The museum hosts a painting exhibition.
+A1,Αγοράζουμε εισιτήρια για τη συναυλία.,We buy tickets for the concert.
+A1,Η τράπεζα βρίσκεται απέναντι από το δημαρχείο.,The bank is opposite the city hall.
+A2-Bridge,Χθες επισκέφτηκα έναν φίλο που μένει κοντά στο λιμάνι.,Yesterday I visited a friend who lives near the port.
+A2-Bridge,Αποφάσισα να μάθω μια ξένη γλώσσα φέτος.,I decided to learn a foreign language this year.
+A2-Bridge,Θα προσπαθήσω να τελειώσω την εργασία πριν από το βράδυ.,I will try to finish the assignment before the evening.
+A2-Bridge,Έχασα το λεωφορείο και έφτασα αργά στη δουλειά.,I missed the bus and arrived late at work.
+A2-Bridge,Πρέπει να αγοράσουμε τρόφιμα για την εβδομάδα.,We need to buy groceries for the week.
+A2-Bridge,Το παιδί έσπασε το ποτήρι κατά λάθος.,The child broke the glass by accident.
+A2-Bridge,Θα μείνουμε στο ξενοδοχείο μέχρι τη Δευτέρα.,We will stay at the hotel until Monday.
+A2-Bridge,Η γιατρός μου συνέστησε να ξεκουράζομαι περισσότερο.,The doctor recommended that I rest more.
+A2-Bridge,"Προσπάθησα να τον καλέσω, αλλά δεν απάντησε.","I tried to call him, but he didn’t answer."
+A2-Bridge,Χρειάστηκε να περιμένουμε περίπου μία ώρα.,We had to wait about an hour.
+A2-Bridge,Ανακάλυψα ένα μικρό καφέ πίσω από το μουσείο.,I discovered a small café behind the museum.
+A2-Bridge,Έκλεισα ένα δωμάτιο με θέα στη θάλασσα.,I booked a room with a view of the sea.
+A2-Bridge,Σκέφτομαι να αλλάξω δουλειά τον επόμενο μήνα.,I am thinking of changing jobs next month.
+A2-Bridge,Μου πρότειναν να συμμετάσχω στο σεμινάριο.,They suggested that I participate in the seminar.
+A2-Bridge,Η πτήση καθυστέρησε λόγω κακοκαιρίας.,The flight was delayed due to bad weather.
+A2-Bridge,Συνειδητοποίησα ότι είχα ξεχάσει τα κλειδιά μου.,I realized that I had forgotten my keys.
+A2-Bridge,Πήραμε το μετρό για να φτάσουμε πιο γρήγορα.,We took the metro to arrive faster.
+A2-Bridge,Αγόρασε ένα δώρο για τα γενέθλια της φίλης του.,He bought a gift for his girlfriend's birthday.
+A2-Bridge,Θα εξετάσουμε όλες τις επιλογές πριν αποφασίσουμε.,We will examine all the options before deciding.
+A2-Bridge,Παρέλαβα το μήνυμα λίγα λεπτά πριν φύγω.,I received the message a few minutes before leaving.
+A2-Bridge,Χθες επισκέφτηκα έναν φίλο που μένει κοντά στο λιμάνι χθες το βράδυ.,Yesterday I visited a friend who lives near the port last night.
+A2-Bridge,Χθες επισκέφτηκα έναν φίλο που μένει κοντά στο λιμάνι νωρίς το πρωί.,Yesterday I visited a friend who lives near the port early in the morning.
+A2-Bridge,Χθες επισκέφτηκα έναν φίλο που μένει κοντά στο λιμάνι την περασμένη εβδομάδα.,Yesterday I visited a friend who lives near the port last week.
+A2-Bridge,Χθες επισκέφτηκα έναν φίλο που μένει κοντά στο λιμάνι πριν από λίγες μέρες.,Yesterday I visited a friend who lives near the port a few days ago.
+A2-Bridge,Χθες επισκέφτηκα έναν φίλο που μένει κοντά στο λιμάνι σήμερα το απόγευμα.,Yesterday I visited a friend who lives near the port this afternoon.
+A2-Bridge,Αποφάσισα να μάθω μια ξένη γλώσσα φέτος χθες το βράδυ.,I decided to learn a foreign language this year last night.
+A2-Bridge,Αποφάσισα να μάθω μια ξένη γλώσσα φέτος νωρίς το πρωί.,I decided to learn a foreign language this year early in the morning.
+A2-Bridge,Αποφάσισα να μάθω μια ξένη γλώσσα φέτος την περασμένη εβδομάδα.,I decided to learn a foreign language this year last week.
+A2-Bridge,Αποφάσισα να μάθω μια ξένη γλώσσα φέτος πριν από λίγες μέρες.,I decided to learn a foreign language this year a few days ago.
+A2-Bridge,Αποφάσισα να μάθω μια ξένη γλώσσα φέτος σήμερα το απόγευμα.,I decided to learn a foreign language this year this afternoon.
+A2-Bridge,Θα προσπαθήσω να τελειώσω την εργασία πριν από το βράδυ χθες το βράδυ.,I will try to finish the assignment before the evening last night.
+A2-Bridge,Θα προσπαθήσω να τελειώσω την εργασία πριν από το βράδυ νωρίς το πρωί.,I will try to finish the assignment before the evening early in the morning.
+A2-Bridge,Θα προσπαθήσω να τελειώσω την εργασία πριν από το βράδυ την περασμένη εβδομάδα.,I will try to finish the assignment before the evening last week.
+A2-Bridge,Θα προσπαθήσω να τελειώσω την εργασία πριν από το βράδυ πριν από λίγες μέρες.,I will try to finish the assignment before the evening a few days ago.
+A2-Bridge,Θα προσπαθήσω να τελειώσω την εργασία πριν από το βράδυ σήμερα το απόγευμα.,I will try to finish the assignment before the evening this afternoon.
+A2-Bridge,Έχασα το λεωφορείο και έφτασα αργά στη δουλειά χθες το βράδυ.,I missed the bus and arrived late at work last night.
+A2-Bridge,Έχασα το λεωφορείο και έφτασα αργά στη δουλειά νωρίς το πρωί.,I missed the bus and arrived late at work early in the morning.
+A2-Bridge,Έχασα το λεωφορείο και έφτασα αργά στη δουλειά την περασμένη εβδομάδα.,I missed the bus and arrived late at work last week.
+A2-Bridge,Έχασα το λεωφορείο και έφτασα αργά στη δουλειά πριν από λίγες μέρες.,I missed the bus and arrived late at work a few days ago.
+A2-Bridge,Έχασα το λεωφορείο και έφτασα αργά στη δουλειά σήμερα το απόγευμα.,I missed the bus and arrived late at work this afternoon.
+A2-Bridge,Πρέπει να αγοράσουμε τρόφιμα για την εβδομάδα χθες το βράδυ.,We need to buy groceries for the week last night.
+A2-Bridge,Πρέπει να αγοράσουμε τρόφιμα για την εβδομάδα νωρίς το πρωί.,We need to buy groceries for the week early in the morning.
+A2-Bridge,Πρέπει να αγοράσουμε τρόφιμα για την εβδομάδα την περασμένη εβδομάδα.,We need to buy groceries for the week last week.
+A2-Bridge,Πρέπει να αγοράσουμε τρόφιμα για την εβδομάδα πριν από λίγες μέρες.,We need to buy groceries for the week a few days ago.
+A2-Bridge,Πρέπει να αγοράσουμε τρόφιμα για την εβδομάδα σήμερα το απόγευμα.,We need to buy groceries for the week this afternoon.
+A2-Bridge,Το παιδί έσπασε το ποτήρι κατά λάθος χθες το βράδυ.,The child broke the glass by accident last night.
+A2-Bridge,Το παιδί έσπασε το ποτήρι κατά λάθος νωρίς το πρωί.,The child broke the glass by accident early in the morning.
+A2-Bridge,Το παιδί έσπασε το ποτήρι κατά λάθος την περασμένη εβδομάδα.,The child broke the glass by accident last week.
+A2-Bridge,Το παιδί έσπασε το ποτήρι κατά λάθος πριν από λίγες μέρες.,The child broke the glass by accident a few days ago.
+A2-Bridge,Το παιδί έσπασε το ποτήρι κατά λάθος σήμερα το απόγευμα.,The child broke the glass by accident this afternoon.
+A2-Bridge,Θα μείνουμε στο ξενοδοχείο μέχρι τη Δευτέρα χθες το βράδυ.,We will stay at the hotel until Monday last night.
+A2-Bridge,Θα μείνουμε στο ξενοδοχείο μέχρι τη Δευτέρα νωρίς το πρωί.,We will stay at the hotel until Monday early in the morning.
+A2-Bridge,Θα μείνουμε στο ξενοδοχείο μέχρι τη Δευτέρα την περασμένη εβδομάδα.,We will stay at the hotel until Monday last week.
+A2-Bridge,Θα μείνουμε στο ξενοδοχείο μέχρι τη Δευτέρα πριν από λίγες μέρες.,We will stay at the hotel until Monday a few days ago.
+A2-Bridge,Θα μείνουμε στο ξενοδοχείο μέχρι τη Δευτέρα σήμερα το απόγευμα.,We will stay at the hotel until Monday this afternoon.
+A2-Bridge,Η γιατρός μου συνέστησε να ξεκουράζομαι περισσότερο χθες το βράδυ.,The doctor recommended that I rest more last night.
+A2-Bridge,Η γιατρός μου συνέστησε να ξεκουράζομαι περισσότερο νωρίς το πρωί.,The doctor recommended that I rest more early in the morning.
+A2-Bridge,Η γιατρός μου συνέστησε να ξεκουράζομαι περισσότερο την περασμένη εβδομάδα.,The doctor recommended that I rest more last week.
+A2-Bridge,Η γιατρός μου συνέστησε να ξεκουράζομαι περισσότερο πριν από λίγες μέρες.,The doctor recommended that I rest more a few days ago.
+A2-Bridge,Η γιατρός μου συνέστησε να ξεκουράζομαι περισσότερο σήμερα το απόγευμα.,The doctor recommended that I rest more this afternoon.
+A2-Bridge,"Προσπάθησα να τον καλέσω, αλλά δεν απάντησε χθες το βράδυ.","I tried to call him, but he didn’t answer last night."
+A2-Bridge,"Προσπάθησα να τον καλέσω, αλλά δεν απάντησε νωρίς το πρωί.","I tried to call him, but he didn’t answer early in the morning."
+A2-Bridge,"Προσπάθησα να τον καλέσω, αλλά δεν απάντησε την περασμένη εβδομάδα.","I tried to call him, but he didn’t answer last week."
+A2-Bridge,"Προσπάθησα να τον καλέσω, αλλά δεν απάντησε πριν από λίγες μέρες.","I tried to call him, but he didn’t answer a few days ago."
+A2-Bridge,"Προσπάθησα να τον καλέσω, αλλά δεν απάντησε σήμερα το απόγευμα.","I tried to call him, but he didn’t answer this afternoon."
+A2-Bridge,Χρειάστηκε να περιμένουμε περίπου μία ώρα χθες το βράδυ.,We had to wait about an hour last night.
+A2-Bridge,Χρειάστηκε να περιμένουμε περίπου μία ώρα νωρίς το πρωί.,We had to wait about an hour early in the morning.
+A2-Bridge,Χρειάστηκε να περιμένουμε περίπου μία ώρα την περασμένη εβδομάδα.,We had to wait about an hour last week.
+A2-Bridge,Χρειάστηκε να περιμένουμε περίπου μία ώρα πριν από λίγες μέρες.,We had to wait about an hour a few days ago.
+A2-Bridge,Χρειάστηκε να περιμένουμε περίπου μία ώρα σήμερα το απόγευμα.,We had to wait about an hour this afternoon.
+A2-Bridge,Ανακάλυψα ένα μικρό καφέ πίσω από το μουσείο χθες το βράδυ.,I discovered a small café behind the museum last night.
+A2-Bridge,Ανακάλυψα ένα μικρό καφέ πίσω από το μουσείο νωρίς το πρωί.,I discovered a small café behind the museum early in the morning.
+A2-Bridge,Ανακάλυψα ένα μικρό καφέ πίσω από το μουσείο την περασμένη εβδομάδα.,I discovered a small café behind the museum last week.
+A2-Bridge,Ανακάλυψα ένα μικρό καφέ πίσω από το μουσείο πριν από λίγες μέρες.,I discovered a small café behind the museum a few days ago.
+A2-Bridge,Ανακάλυψα ένα μικρό καφέ πίσω από το μουσείο σήμερα το απόγευμα.,I discovered a small café behind the museum this afternoon.
+A2-Bridge,Έκλεισα ένα δωμάτιο με θέα στη θάλασσα χθες το βράδυ.,I booked a room with a view of the sea last night.
+A2-Bridge,Έκλεισα ένα δωμάτιο με θέα στη θάλασσα νωρίς το πρωί.,I booked a room with a view of the sea early in the morning.
+A2-Bridge,Έκλεισα ένα δωμάτιο με θέα στη θάλασσα την περασμένη εβδομάδα.,I booked a room with a view of the sea last week.
+A2-Bridge,Έκλεισα ένα δωμάτιο με θέα στη θάλασσα πριν από λίγες μέρες.,I booked a room with a view of the sea a few days ago.
+A2-Bridge,Έκλεισα ένα δωμάτιο με θέα στη θάλασσα σήμερα το απόγευμα.,I booked a room with a view of the sea this afternoon.
+A2-Bridge,Σκέφτομαι να αλλάξω δουλειά τον επόμενο μήνα χθες το βράδυ.,I am thinking of changing jobs next month last night.
+A2-Bridge,Σκέφτομαι να αλλάξω δουλειά τον επόμενο μήνα νωρίς το πρωί.,I am thinking of changing jobs next month early in the morning.
+A2-Bridge,Σκέφτομαι να αλλάξω δουλειά τον επόμενο μήνα την περασμένη εβδομάδα.,I am thinking of changing jobs next month last week.
+A2-Bridge,Σκέφτομαι να αλλάξω δουλειά τον επόμενο μήνα πριν από λίγες μέρες.,I am thinking of changing jobs next month a few days ago.
+A2-Bridge,Σκέφτομαι να αλλάξω δουλειά τον επόμενο μήνα σήμερα το απόγευμα.,I am thinking of changing jobs next month this afternoon.
+A2-Bridge,Μου πρότειναν να συμμετάσχω στο σεμινάριο χθες το βράδυ.,They suggested that I participate in the seminar last night.
+A2-Bridge,Μου πρότειναν να συμμετάσχω στο σεμινάριο νωρίς το πρωί.,They suggested that I participate in the seminar early in the morning.
+A2-Bridge,Μου πρότειναν να συμμετάσχω στο σεμινάριο την περασμένη εβδομάδα.,They suggested that I participate in the seminar last week.
+A2-Bridge,Μου πρότειναν να συμμετάσχω στο σεμινάριο πριν από λίγες μέρες.,They suggested that I participate in the seminar a few days ago.
+A2-Bridge,Μου πρότειναν να συμμετάσχω στο σεμινάριο σήμερα το απόγευμα.,They suggested that I participate in the seminar this afternoon.
+A2-Bridge,Η πτήση καθυστέρησε λόγω κακοκαιρίας χθες το βράδυ.,The flight was delayed due to bad weather last night.
+A2-Bridge,Η πτήση καθυστέρησε λόγω κακοκαιρίας νωρίς το πρωί.,The flight was delayed due to bad weather early in the morning.
+A2-Bridge,Η πτήση καθυστέρησε λόγω κακοκαιρίας την περασμένη εβδομάδα.,The flight was delayed due to bad weather last week.
+A2-Bridge,Η πτήση καθυστέρησε λόγω κακοκαιρίας πριν από λίγες μέρες.,The flight was delayed due to bad weather a few days ago.
+A2-Bridge,Η πτήση καθυστέρησε λόγω κακοκαιρίας σήμερα το απόγευμα.,The flight was delayed due to bad weather this afternoon.
+A2-Bridge,Συνειδητοποίησα ότι είχα ξεχάσει τα κλειδιά μου χθες το βράδυ.,I realized that I had forgotten my keys last night.
+A2-Bridge,Συνειδητοποίησα ότι είχα ξεχάσει τα κλειδιά μου νωρίς το πρωί.,I realized that I had forgotten my keys early in the morning.
+A2-Bridge,Συνειδητοποίησα ότι είχα ξεχάσει τα κλειδιά μου την περασμένη εβδομάδα.,I realized that I had forgotten my keys last week.
+A2-Bridge,Συνειδητοποίησα ότι είχα ξεχάσει τα κλειδιά μου πριν από λίγες μέρες.,I realized that I had forgotten my keys a few days ago.
+A2-Bridge,Συνειδητοποίησα ότι είχα ξεχάσει τα κλειδιά μου σήμερα το απόγευμα.,I realized that I had forgotten my keys this afternoon.
+A2-Bridge,Πήραμε το μετρό για να φτάσουμε πιο γρήγορα χθες το βράδυ.,We took the metro to arrive faster last night.
+A2-Bridge,Πήραμε το μετρό για να φτάσουμε πιο γρήγορα νωρίς το πρωί.,We took the metro to arrive faster early in the morning.
+A2-Bridge,Πήραμε το μετρό για να φτάσουμε πιο γρήγορα την περασμένη εβδομάδα.,We took the metro to arrive faster last week.
+A2-Bridge,Πήραμε το μετρό για να φτάσουμε πιο γρήγορα πριν από λίγες μέρες.,We took the metro to arrive faster a few days ago.
+A2-Bridge,Πήραμε το μετρό για να φτάσουμε πιο γρήγορα σήμερα το απόγευμα.,We took the metro to arrive faster this afternoon.
+A2-Bridge,Αγόρασε ένα δώρο για τα γενέθλια της φίλης του χθες το βράδυ.,He bought a gift for his girlfriend's birthday last night.
+A2-Bridge,Αγόρασε ένα δώρο για τα γενέθλια της φίλης του νωρίς το πρωί.,He bought a gift for his girlfriend's birthday early in the morning.
+A2-Bridge,Αγόρασε ένα δώρο για τα γενέθλια της φίλης του την περασμένη εβδομάδα.,He bought a gift for his girlfriend's birthday last week.
+A2-Bridge,Αγόρασε ένα δώρο για τα γενέθλια της φίλης του πριν από λίγες μέρες.,He bought a gift for his girlfriend's birthday a few days ago.
+A2-Bridge,Αγόρασε ένα δώρο για τα γενέθλια της φίλης του σήμερα το απόγευμα.,He bought a gift for his girlfriend's birthday this afternoon.
+A2-Bridge,Θα εξετάσουμε όλες τις επιλογές πριν αποφασίσουμε χθες το βράδυ.,We will examine all the options before deciding last night.
+A2-Bridge,Θα εξετάσουμε όλες τις επιλογές πριν αποφασίσουμε νωρίς το πρωί.,We will examine all the options before deciding early in the morning.
+A2-Bridge,Θα εξετάσουμε όλες τις επιλογές πριν αποφασίσουμε την περασμένη εβδομάδα.,We will examine all the options before deciding last week.
+A2-Bridge,Θα εξετάσουμε όλες τις επιλογές πριν αποφασίσουμε πριν από λίγες μέρες.,We will examine all the options before deciding a few days ago.
+A2-Bridge,Θα εξετάσουμε όλες τις επιλογές πριν αποφασίσουμε σήμερα το απόγευμα.,We will examine all the options before deciding this afternoon.
+A2-Bridge,Παρέλαβα το μήνυμα λίγα λεπτά πριν φύγω χθες το βράδυ.,I received the message a few minutes before leaving last night.
+A2-Bridge,Παρέλαβα το μήνυμα λίγα λεπτά πριν φύγω νωρίς το πρωί.,I received the message a few minutes before leaving early in the morning.
+A2-Bridge,Παρέλαβα το μήνυμα λίγα λεπτά πριν φύγω την περασμένη εβδομάδα.,I received the message a few minutes before leaving last week.
+A2-Bridge,Παρέλαβα το μήνυμα λίγα λεπτά πριν φύγω πριν από λίγες μέρες.,I received the message a few minutes before leaving a few days ago.
+A2-Bridge,Παρέλαβα το μήνυμα λίγα λεπτά πριν φύγω σήμερα το απόγευμα.,I received the message a few minutes before leaving this afternoon.
+A2,Πήγαινα συχνά στο ίδιο καφέ όταν δούλευα στο κέντρο.,I used to go often to the same café when I worked downtown.
+A2,Μου έδωσε το βιβλίο που αγόρασε χθες.,He gave me the book he bought yesterday.
+A2,"Η ταινία που είδα ήταν πιο ενδιαφέρουσα από ό,τι περίμενα.",The movie I saw was more interesting than I expected.
+A2,"Όταν ήμουν μικρός, περνούσα τα καλοκαίρια στο χωριό.","When I was young, I used to spend the summers in the village."
+A2,Θα σου στείλω τα έγγραφα μόλις τα ετοιμάσω.,I will send you the documents as soon as I prepare them.
+A2,Η εμπειρία αυτή μου άλλαξε τον τρόπο που σκέφτομαι.,This experience changed the way I think.
+A2,"Προσπάθησε να μου εξηγήσει το πρόβλημα, αλλά δεν το κατάλαβα.","He tried to explain the problem to me, but I didn’t understand it."
+A2,Αυτό είναι το καλύτερο εστιατόριο που έχω δοκιμάσει.,This is the best restaurant I have tried.
+A2,Είχα ήδη φύγει όταν με πήρες τηλέφωνο.,I had already left when you called me.
+A2,Η πρόταση που έκανες ήταν πιο λογική από τη δική μου.,The proposal you made was more reasonable than mine.
+A2,Μου ζήτησαν να παρουσιάσω τα αποτελέσματα της έρευνας.,They asked me to present the results of the research.
+A2,Το άρθρο που διάβασα εξηγεί το θέμα με σαφήνεια.,The article I read explains the topic clearly.
+A2,Δεν θυμόμουν πού είχα βάλει τα κλειδιά.,I did not remember where I had put the keys.
+A2,Θα το συζητήσουμε αφού τελειώσουμε το μάθημα.,We will discuss it after we finish the lesson.
+A2,Η απόφαση που πήραμε ήταν δύσκολη αλλά αναγκαία.,The decision we made was difficult but necessary.
+A2,Του έστειλα το μήνυμα που μου ζήτησε.,I sent him the message he asked me for.
+A2,"Όσο περισσότερο μελετάς, τόσο πιο σίγουρος νιώθεις.","The more you study, the more confident you feel."
+A2,Δεν κατάλαβα γιατί αντέδρασε έτσι.,I did not understand why he reacted that way.
+A2,Η λύση που προτείνεις φαίνεται πιο αποτελεσματική.,The solution you propose seems more effective.
+A2,Είχαμε κλείσει τραπέζι πριν φτάσουμε στο εστιατόριο.,We had reserved a table before arriving at the restaurant.
+A2,Πήγαινα συχνά στο ίδιο καφέ όταν δούλευα στο κέντρο πριν από λίγο.,I used to go often to the same café when I worked downtown a short while ago.
+A2,Πήγαινα συχνά στο ίδιο καφέ όταν δούλευα στο κέντρο την περασμένη χρονιά.,I used to go often to the same café when I worked downtown last year.
+A2,Πήγαινα συχνά στο ίδιο καφέ όταν δούλευα στο κέντρο μέχρι τώρα.,I used to go often to the same café when I worked downtown until now.
+A2,Πήγαινα συχνά στο ίδιο καφέ όταν δούλευα στο κέντρο στο παρελθόν.,I used to go often to the same café when I worked downtown in the past.
+A2,Πήγαινα συχνά στο ίδιο καφέ όταν δούλευα στο κέντρο από τότε.,I used to go often to the same café when I worked downtown since then.
+A2,Μου έδωσε το βιβλίο που αγόρασε χθες πριν από λίγο.,He gave me the book he bought yesterday a short while ago.
+A2,Μου έδωσε το βιβλίο που αγόρασε χθες την περασμένη χρονιά.,He gave me the book he bought yesterday last year.
+A2,Μου έδωσε το βιβλίο που αγόρασε χθες μέχρι τώρα.,He gave me the book he bought yesterday until now.
+A2,Μου έδωσε το βιβλίο που αγόρασε χθες στο παρελθόν.,He gave me the book he bought yesterday in the past.
+A2,Μου έδωσε το βιβλίο που αγόρασε χθες από τότε.,He gave me the book he bought yesterday since then.
+A2,"Η ταινία που είδα ήταν πιο ενδιαφέρουσα από ό,τι περίμενα πριν από λίγο.",The movie I saw was more interesting than I expected a short while ago.
+A2,"Η ταινία που είδα ήταν πιο ενδιαφέρουσα από ό,τι περίμενα την περασμένη χρονιά.",The movie I saw was more interesting than I expected last year.
+A2,"Η ταινία που είδα ήταν πιο ενδιαφέρουσα από ό,τι περίμενα μέχρι τώρα.",The movie I saw was more interesting than I expected until now.
+A2,"Η ταινία που είδα ήταν πιο ενδιαφέρουσα από ό,τι περίμενα στο παρελθόν.",The movie I saw was more interesting than I expected in the past.
+A2,"Η ταινία που είδα ήταν πιο ενδιαφέρουσα από ό,τι περίμενα από τότε.",The movie I saw was more interesting than I expected since then.
+A2,"Όταν ήμουν μικρός, περνούσα τα καλοκαίρια στο χωριό πριν από λίγο.","When I was young, I used to spend the summers in the village a short while ago."
+A2,"Όταν ήμουν μικρός, περνούσα τα καλοκαίρια στο χωριό την περασμένη χρονιά.","When I was young, I used to spend the summers in the village last year."
+A2,"Όταν ήμουν μικρός, περνούσα τα καλοκαίρια στο χωριό μέχρι τώρα.","When I was young, I used to spend the summers in the village until now."
+A2,"Όταν ήμουν μικρός, περνούσα τα καλοκαίρια στο χωριό στο παρελθόν.","When I was young, I used to spend the summers in the village in the past."
+A2,"Όταν ήμουν μικρός, περνούσα τα καλοκαίρια στο χωριό από τότε.","When I was young, I used to spend the summers in the village since then."
+A2,Θα σου στείλω τα έγγραφα μόλις τα ετοιμάσω πριν από λίγο.,I will send you the documents as soon as I prepare them a short while ago.
+A2,Θα σου στείλω τα έγγραφα μόλις τα ετοιμάσω την περασμένη χρονιά.,I will send you the documents as soon as I prepare them last year.
+A2,Θα σου στείλω τα έγγραφα μόλις τα ετοιμάσω μέχρι τώρα.,I will send you the documents as soon as I prepare them until now.
+A2,Θα σου στείλω τα έγγραφα μόλις τα ετοιμάσω στο παρελθόν.,I will send you the documents as soon as I prepare them in the past.
+A2,Θα σου στείλω τα έγγραφα μόλις τα ετοιμάσω από τότε.,I will send you the documents as soon as I prepare them since then.
+A2,Η εμπειρία αυτή μου άλλαξε τον τρόπο που σκέφτομαι πριν από λίγο.,This experience changed the way I think a short while ago.
+A2,Η εμπειρία αυτή μου άλλαξε τον τρόπο που σκέφτομαι την περασμένη χρονιά.,This experience changed the way I think last year.
+A2,Η εμπειρία αυτή μου άλλαξε τον τρόπο που σκέφτομαι μέχρι τώρα.,This experience changed the way I think until now.
+A2,Η εμπειρία αυτή μου άλλαξε τον τρόπο που σκέφτομαι στο παρελθόν.,This experience changed the way I think in the past.
+A2,Η εμπειρία αυτή μου άλλαξε τον τρόπο που σκέφτομαι από τότε.,This experience changed the way I think since then.
+A2,"Προσπάθησε να μου εξηγήσει το πρόβλημα, αλλά δεν το κατάλαβα πριν από λίγο.","He tried to explain the problem to me, but I didn’t understand it a short while ago."
+A2,"Προσπάθησε να μου εξηγήσει το πρόβλημα, αλλά δεν το κατάλαβα την περασμένη χρονιά.","He tried to explain the problem to me, but I didn’t understand it last year."
+A2,"Προσπάθησε να μου εξηγήσει το πρόβλημα, αλλά δεν το κατάλαβα μέχρι τώρα.","He tried to explain the problem to me, but I didn’t understand it until now."
+A2,"Προσπάθησε να μου εξηγήσει το πρόβλημα, αλλά δεν το κατάλαβα στο παρελθόν.","He tried to explain the problem to me, but I didn’t understand it in the past."
+A2,"Προσπάθησε να μου εξηγήσει το πρόβλημα, αλλά δεν το κατάλαβα από τότε.","He tried to explain the problem to me, but I didn’t understand it since then."
+A2,Αυτό είναι το καλύτερο εστιατόριο που έχω δοκιμάσει πριν από λίγο.,This is the best restaurant I have tried a short while ago.
+A2,Αυτό είναι το καλύτερο εστιατόριο που έχω δοκιμάσει την περασμένη χρονιά.,This is the best restaurant I have tried last year.
+A2,Αυτό είναι το καλύτερο εστιατόριο που έχω δοκιμάσει μέχρι τώρα.,This is the best restaurant I have tried until now.
+A2,Αυτό είναι το καλύτερο εστιατόριο που έχω δοκιμάσει στο παρελθόν.,This is the best restaurant I have tried in the past.
+A2,Αυτό είναι το καλύτερο εστιατόριο που έχω δοκιμάσει από τότε.,This is the best restaurant I have tried since then.
+A2,Είχα ήδη φύγει όταν με πήρες τηλέφωνο πριν από λίγο.,I had already left when you called me a short while ago.
+A2,Είχα ήδη φύγει όταν με πήρες τηλέφωνο την περασμένη χρονιά.,I had already left when you called me last year.
+A2,Είχα ήδη φύγει όταν με πήρες τηλέφωνο μέχρι τώρα.,I had already left when you called me until now.
+A2,Είχα ήδη φύγει όταν με πήρες τηλέφωνο στο παρελθόν.,I had already left when you called me in the past.
+A2,Είχα ήδη φύγει όταν με πήρες τηλέφωνο από τότε.,I had already left when you called me since then.
+A2,Η πρόταση που έκανες ήταν πιο λογική από τη δική μου πριν από λίγο.,The proposal you made was more reasonable than mine a short while ago.
+A2,Η πρόταση που έκανες ήταν πιο λογική από τη δική μου την περασμένη χρονιά.,The proposal you made was more reasonable than mine last year.
+A2,Η πρόταση που έκανες ήταν πιο λογική από τη δική μου μέχρι τώρα.,The proposal you made was more reasonable than mine until now.
+A2,Η πρόταση που έκανες ήταν πιο λογική από τη δική μου στο παρελθόν.,The proposal you made was more reasonable than mine in the past.
+A2,Η πρόταση που έκανες ήταν πιο λογική από τη δική μου από τότε.,The proposal you made was more reasonable than mine since then.
+A2,Μου ζήτησαν να παρουσιάσω τα αποτελέσματα της έρευνας πριν από λίγο.,They asked me to present the results of the research a short while ago.
+A2,Μου ζήτησαν να παρουσιάσω τα αποτελέσματα της έρευνας την περασμένη χρονιά.,They asked me to present the results of the research last year.
+A2,Μου ζήτησαν να παρουσιάσω τα αποτελέσματα της έρευνας μέχρι τώρα.,They asked me to present the results of the research until now.
+A2,Μου ζήτησαν να παρουσιάσω τα αποτελέσματα της έρευνας στο παρελθόν.,They asked me to present the results of the research in the past.
+A2,Μου ζήτησαν να παρουσιάσω τα αποτελέσματα της έρευνας από τότε.,They asked me to present the results of the research since then.
+A2,Το άρθρο που διάβασα εξηγεί το θέμα με σαφήνεια πριν από λίγο.,The article I read explains the topic clearly a short while ago.
+A2,Το άρθρο που διάβασα εξηγεί το θέμα με σαφήνεια την περασμένη χρονιά.,The article I read explains the topic clearly last year.
+A2,Το άρθρο που διάβασα εξηγεί το θέμα με σαφήνεια μέχρι τώρα.,The article I read explains the topic clearly until now.
+A2,Το άρθρο που διάβασα εξηγεί το θέμα με σαφήνεια στο παρελθόν.,The article I read explains the topic clearly in the past.
+A2,Το άρθρο που διάβασα εξηγεί το θέμα με σαφήνεια από τότε.,The article I read explains the topic clearly since then.
+A2,Δεν θυμόμουν πού είχα βάλει τα κλειδιά πριν από λίγο.,I did not remember where I had put the keys a short while ago.
+A2,Δεν θυμόμουν πού είχα βάλει τα κλειδιά την περασμένη χρονιά.,I did not remember where I had put the keys last year.
+A2,Δεν θυμόμουν πού είχα βάλει τα κλειδιά μέχρι τώρα.,I did not remember where I had put the keys until now.
+A2,Δεν θυμόμουν πού είχα βάλει τα κλειδιά στο παρελθόν.,I did not remember where I had put the keys in the past.
+A2,Δεν θυμόμουν πού είχα βάλει τα κλειδιά από τότε.,I did not remember where I had put the keys since then.
+A2,Θα το συζητήσουμε αφού τελειώσουμε το μάθημα πριν από λίγο.,We will discuss it after we finish the lesson a short while ago.
+A2,Θα το συζητήσουμε αφού τελειώσουμε το μάθημα την περασμένη χρονιά.,We will discuss it after we finish the lesson last year.
+A2,Θα το συζητήσουμε αφού τελειώσουμε το μάθημα μέχρι τώρα.,We will discuss it after we finish the lesson until now.
+A2,Θα το συζητήσουμε αφού τελειώσουμε το μάθημα στο παρελθόν.,We will discuss it after we finish the lesson in the past.
+A2,Θα το συζητήσουμε αφού τελειώσουμε το μάθημα από τότε.,We will discuss it after we finish the lesson since then.
+A2,Η απόφαση που πήραμε ήταν δύσκολη αλλά αναγκαία πριν από λίγο.,The decision we made was difficult but necessary a short while ago.
+A2,Η απόφαση που πήραμε ήταν δύσκολη αλλά αναγκαία την περασμένη χρονιά.,The decision we made was difficult but necessary last year.
+A2,Η απόφαση που πήραμε ήταν δύσκολη αλλά αναγκαία μέχρι τώρα.,The decision we made was difficult but necessary until now.
+A2,Η απόφαση που πήραμε ήταν δύσκολη αλλά αναγκαία στο παρελθόν.,The decision we made was difficult but necessary in the past.
+A2,Η απόφαση που πήραμε ήταν δύσκολη αλλά αναγκαία από τότε.,The decision we made was difficult but necessary since then.
+A2,Του έστειλα το μήνυμα που μου ζήτησε πριν από λίγο.,I sent him the message he asked me for a short while ago.
+A2,Του έστειλα το μήνυμα που μου ζήτησε την περασμένη χρονιά.,I sent him the message he asked me for last year.
+A2,Του έστειλα το μήνυμα που μου ζήτησε μέχρι τώρα.,I sent him the message he asked me for until now.
+A2,Του έστειλα το μήνυμα που μου ζήτησε στο παρελθόν.,I sent him the message he asked me for in the past.
+A2,Του έστειλα το μήνυμα που μου ζήτησε από τότε.,I sent him the message he asked me for since then.
+A2,"Όσο περισσότερο μελετάς, τόσο πιο σίγουρος νιώθεις πριν από λίγο.","The more you study, the more confident you feel a short while ago."
+A2,"Όσο περισσότερο μελετάς, τόσο πιο σίγουρος νιώθεις την περασμένη χρονιά.","The more you study, the more confident you feel last year."
+A2,"Όσο περισσότερο μελετάς, τόσο πιο σίγουρος νιώθεις μέχρι τώρα.","The more you study, the more confident you feel until now."
+A2,"Όσο περισσότερο μελετάς, τόσο πιο σίγουρος νιώθεις στο παρελθόν.","The more you study, the more confident you feel in the past."
+A2,"Όσο περισσότερο μελετάς, τόσο πιο σίγουρος νιώθεις από τότε.","The more you study, the more confident you feel since then."
+A2,Δεν κατάλαβα γιατί αντέδρασε έτσι πριν από λίγο.,I did not understand why he reacted that way a short while ago.
+A2,Δεν κατάλαβα γιατί αντέδρασε έτσι την περασμένη χρονιά.,I did not understand why he reacted that way last year.
+A2,Δεν κατάλαβα γιατί αντέδρασε έτσι μέχρι τώρα.,I did not understand why he reacted that way until now.
+A2,Δεν κατάλαβα γιατί αντέδρασε έτσι στο παρελθόν.,I did not understand why he reacted that way in the past.
+A2,Δεν κατάλαβα γιατί αντέδρασε έτσι από τότε.,I did not understand why he reacted that way since then.
+A2,Η λύση που προτείνεις φαίνεται πιο αποτελεσματική πριν από λίγο.,The solution you propose seems more effective a short while ago.
+A2,Η λύση που προτείνεις φαίνεται πιο αποτελεσματική την περασμένη χρονιά.,The solution you propose seems more effective last year.
+A2,Η λύση που προτείνεις φαίνεται πιο αποτελεσματική μέχρι τώρα.,The solution you propose seems more effective until now.
+A2,Η λύση που προτείνεις φαίνεται πιο αποτελεσματική στο παρελθόν.,The solution you propose seems more effective in the past.
+A2,Η λύση που προτείνεις φαίνεται πιο αποτελεσματική από τότε.,The solution you propose seems more effective since then.
+A2,Είχαμε κλείσει τραπέζι πριν φτάσουμε στο εστιατόριο πριν από λίγο.,We had reserved a table before arriving at the restaurant a short while ago.
+A2,Είχαμε κλείσει τραπέζι πριν φτάσουμε στο εστιατόριο την περασμένη χρονιά.,We had reserved a table before arriving at the restaurant last year.
+A2,Είχαμε κλείσει τραπέζι πριν φτάσουμε στο εστιατόριο μέχρι τώρα.,We had reserved a table before arriving at the restaurant until now.
+A2,Είχαμε κλείσει τραπέζι πριν φτάσουμε στο εστιατόριο στο παρελθόν.,We had reserved a table before arriving at the restaurant in the past.
+A2,Είχαμε κλείσει τραπέζι πριν φτάσουμε στο εστιατόριο από τότε.,We had reserved a table before arriving at the restaurant since then.
+B1-Bridge,"Αν είχα περισσότερο χρόνο, θα ασχολιόμουν με τη μουσική.","If I had more time, I would devote myself to music."
+B1-Bridge,Νομίζω ότι η απόφαση αυτή ήταν σωστή.,I think that this decision was correct.
+B1-Bridge,Φαίνεται ότι το πρόβλημα λύθηκε τελικά.,It seems that the problem was finally solved.
+B1-Bridge,"Ωστόσο, δεν συμφωνώ με την άποψή του.","However, I do not agree with his opinion."
+B1-Bridge,"Παρ’ όλα αυτά, συνεχίσαμε την προσπάθεια.","Nevertheless, we continued the effort."
+B1-Bridge,Η ευθύνη που ανέλαβε ήταν μεγάλη.,The responsibility he took on was significant.
+B1-Bridge,Μου εξήγησε πώς λειτουργεί το σύστημα.,He explained to me how the system works.
+B1-Bridge,"Αν το ήξερα, θα σου το έλεγα νωρίτερα.","If I had known, I would have told you earlier."
+B1-Bridge,Η πιθανότητα να αποτύχουμε είναι μικρή.,The possibility that we fail is small.
+B1-Bridge,Της ζήτησα να μου στείλει τις λεπτομέρειες.,I asked her to send me the details.
+B1-Bridge,"Το αποτέλεσμα ήταν καλύτερο από ό,τι περιμέναμε.",The result was better than we expected.
+B1-Bridge,Δεν μου το εξήγησαν με σαφήνεια.,They did not explain it to me clearly.
+B1-Bridge,Η εμπιστοσύνη που του δείξαμε ήταν σημαντική.,The trust we showed him was important.
+B1-Bridge,"Αν και ήταν κουρασμένη, ολοκλήρωσε το έργο.","Although she was tired, she completed the project."
+B1-Bridge,Η πρόοδος που σημειώσαμε ήταν εντυπωσιακή.,The progress we made was impressive.
+B1-Bridge,Θα το εξετάσουμε μόλις λάβουμε απάντηση.,We will examine it once we receive a response.
+B1-Bridge,Η συμπεριφορά του προκάλεσε ανησυχία.,His behavior caused concern.
+B1-Bridge,Μας ενημέρωσαν ότι η διαδικασία άλλαξε.,They informed us that the procedure changed.
+B1-Bridge,Η εμπειρία αυτή ενίσχυσε την αυτοπεποίθησή μου.,This experience strengthened my self-confidence.
+B1-Bridge,"Αν συνεχίσουμε έτσι, θα πετύχουμε τον στόχο μας.","If we continue like this, we will achieve our goal."
+B1-Bridge,"Αν είχα περισσότερο χρόνο, θα ασχολιόμουν με τη μουσική, για τον λόγο αυτό.","If I had more time, I would devote myself to music, for this reason."
+B1-Bridge,"Αν είχα περισσότερο χρόνο, θα ασχολιόμουν με τη μουσική, σε αυτή την περίπτωση.","If I had more time, I would devote myself to music, in this case."
+B1-Bridge,"Αν είχα περισσότερο χρόνο, θα ασχολιόμουν με τη μουσική, με αυτόν τον τρόπο.","If I had more time, I would devote myself to music, in this way."
+B1-Bridge,"Αν είχα περισσότερο χρόνο, θα ασχολιόμουν με τη μουσική, χωρίς αμφιβολία.","If I had more time, I would devote myself to music, without a doubt."
+B1-Bridge,"Αν είχα περισσότερο χρόνο, θα ασχολιόμουν με τη μουσική, κατά τη γνώμη μου.","If I had more time, I would devote myself to music, in my opinion."
+B1-Bridge,"Νομίζω ότι η απόφαση αυτή ήταν σωστή, για τον λόγο αυτό.","I think that this decision was correct, for this reason."
+B1-Bridge,"Νομίζω ότι η απόφαση αυτή ήταν σωστή, σε αυτή την περίπτωση.","I think that this decision was correct, in this case."
+B1-Bridge,"Νομίζω ότι η απόφαση αυτή ήταν σωστή, με αυτόν τον τρόπο.","I think that this decision was correct, in this way."
+B1-Bridge,"Νομίζω ότι η απόφαση αυτή ήταν σωστή, χωρίς αμφιβολία.","I think that this decision was correct, without a doubt."
+B1-Bridge,"Νομίζω ότι η απόφαση αυτή ήταν σωστή, κατά τη γνώμη μου.","I think that this decision was correct, in my opinion."
+B1-Bridge,"Φαίνεται ότι το πρόβλημα λύθηκε τελικά, για τον λόγο αυτό.","It seems that the problem was finally solved, for this reason."
+B1-Bridge,"Φαίνεται ότι το πρόβλημα λύθηκε τελικά, σε αυτή την περίπτωση.","It seems that the problem was finally solved, in this case."
+B1-Bridge,"Φαίνεται ότι το πρόβλημα λύθηκε τελικά, με αυτόν τον τρόπο.","It seems that the problem was finally solved, in this way."
+B1-Bridge,"Φαίνεται ότι το πρόβλημα λύθηκε τελικά, χωρίς αμφιβολία.","It seems that the problem was finally solved, without a doubt."
+B1-Bridge,"Φαίνεται ότι το πρόβλημα λύθηκε τελικά, κατά τη γνώμη μου.","It seems that the problem was finally solved, in my opinion."
+B1-Bridge,"Ωστόσο, δεν συμφωνώ με την άποψή του, για τον λόγο αυτό.","However, I do not agree with his opinion, for this reason."
+B1-Bridge,"Ωστόσο, δεν συμφωνώ με την άποψή του, σε αυτή την περίπτωση.","However, I do not agree with his opinion, in this case."
+B1-Bridge,"Ωστόσο, δεν συμφωνώ με την άποψή του, με αυτόν τον τρόπο.","However, I do not agree with his opinion, in this way."
+B1-Bridge,"Ωστόσο, δεν συμφωνώ με την άποψή του, χωρίς αμφιβολία.","However, I do not agree with his opinion, without a doubt."
+B1-Bridge,"Ωστόσο, δεν συμφωνώ με την άποψή του, κατά τη γνώμη μου.","However, I do not agree with his opinion, in my opinion."
+B1-Bridge,"Παρ’ όλα αυτά, συνεχίσαμε την προσπάθεια, για τον λόγο αυτό.","Nevertheless, we continued the effort, for this reason."
+B1-Bridge,"Παρ’ όλα αυτά, συνεχίσαμε την προσπάθεια, σε αυτή την περίπτωση.","Nevertheless, we continued the effort, in this case."
+B1-Bridge,"Παρ’ όλα αυτά, συνεχίσαμε την προσπάθεια, με αυτόν τον τρόπο.","Nevertheless, we continued the effort, in this way."
+B1-Bridge,"Παρ’ όλα αυτά, συνεχίσαμε την προσπάθεια, χωρίς αμφιβολία.","Nevertheless, we continued the effort, without a doubt."
+B1-Bridge,"Παρ’ όλα αυτά, συνεχίσαμε την προσπάθεια, κατά τη γνώμη μου.","Nevertheless, we continued the effort, in my opinion."
+B1-Bridge,"Η ευθύνη που ανέλαβε ήταν μεγάλη, για τον λόγο αυτό.","The responsibility he took on was significant, for this reason."
+B1-Bridge,"Η ευθύνη που ανέλαβε ήταν μεγάλη, σε αυτή την περίπτωση.","The responsibility he took on was significant, in this case."
+B1-Bridge,"Η ευθύνη που ανέλαβε ήταν μεγάλη, με αυτόν τον τρόπο.","The responsibility he took on was significant, in this way."
+B1-Bridge,"Η ευθύνη που ανέλαβε ήταν μεγάλη, χωρίς αμφιβολία.","The responsibility he took on was significant, without a doubt."
+B1-Bridge,"Η ευθύνη που ανέλαβε ήταν μεγάλη, κατά τη γνώμη μου.","The responsibility he took on was significant, in my opinion."
+B1-Bridge,"Μου εξήγησε πώς λειτουργεί το σύστημα, για τον λόγο αυτό.","He explained to me how the system works, for this reason."
+B1-Bridge,"Μου εξήγησε πώς λειτουργεί το σύστημα, σε αυτή την περίπτωση.","He explained to me how the system works, in this case."
+B1-Bridge,"Μου εξήγησε πώς λειτουργεί το σύστημα, με αυτόν τον τρόπο.","He explained to me how the system works, in this way."
+B1-Bridge,"Μου εξήγησε πώς λειτουργεί το σύστημα, χωρίς αμφιβολία.","He explained to me how the system works, without a doubt."
+B1-Bridge,"Μου εξήγησε πώς λειτουργεί το σύστημα, κατά τη γνώμη μου.","He explained to me how the system works, in my opinion."
+B1-Bridge,"Αν το ήξερα, θα σου το έλεγα νωρίτερα, για τον λόγο αυτό.","If I had known, I would have told you earlier, for this reason."
+B1-Bridge,"Αν το ήξερα, θα σου το έλεγα νωρίτερα, σε αυτή την περίπτωση.","If I had known, I would have told you earlier, in this case."
+B1-Bridge,"Αν το ήξερα, θα σου το έλεγα νωρίτερα, με αυτόν τον τρόπο.","If I had known, I would have told you earlier, in this way."
+B1-Bridge,"Αν το ήξερα, θα σου το έλεγα νωρίτερα, χωρίς αμφιβολία.","If I had known, I would have told you earlier, without a doubt."
+B1-Bridge,"Αν το ήξερα, θα σου το έλεγα νωρίτερα, κατά τη γνώμη μου.","If I had known, I would have told you earlier, in my opinion."
+B1-Bridge,"Η πιθανότητα να αποτύχουμε είναι μικρή, για τον λόγο αυτό.","The possibility that we fail is small, for this reason."
+B1-Bridge,"Η πιθανότητα να αποτύχουμε είναι μικρή, σε αυτή την περίπτωση.","The possibility that we fail is small, in this case."
+B1-Bridge,"Η πιθανότητα να αποτύχουμε είναι μικρή, με αυτόν τον τρόπο.","The possibility that we fail is small, in this way."
+B1-Bridge,"Η πιθανότητα να αποτύχουμε είναι μικρή, χωρίς αμφιβολία.","The possibility that we fail is small, without a doubt."
+B1-Bridge,"Η πιθανότητα να αποτύχουμε είναι μικρή, κατά τη γνώμη μου.","The possibility that we fail is small, in my opinion."
+B1-Bridge,"Της ζήτησα να μου στείλει τις λεπτομέρειες, για τον λόγο αυτό.","I asked her to send me the details, for this reason."
+B1-Bridge,"Της ζήτησα να μου στείλει τις λεπτομέρειες, σε αυτή την περίπτωση.","I asked her to send me the details, in this case."
+B1-Bridge,"Της ζήτησα να μου στείλει τις λεπτομέρειες, με αυτόν τον τρόπο.","I asked her to send me the details, in this way."
+B1-Bridge,"Της ζήτησα να μου στείλει τις λεπτομέρειες, χωρίς αμφιβολία.","I asked her to send me the details, without a doubt."
+B1-Bridge,"Της ζήτησα να μου στείλει τις λεπτομέρειες, κατά τη γνώμη μου.","I asked her to send me the details, in my opinion."
+B1-Bridge,"Το αποτέλεσμα ήταν καλύτερο από ό,τι περιμέναμε, για τον λόγο αυτό.","The result was better than we expected, for this reason."
+B1-Bridge,"Το αποτέλεσμα ήταν καλύτερο από ό,τι περιμέναμε, σε αυτή την περίπτωση.","The result was better than we expected, in this case."
+B1-Bridge,"Το αποτέλεσμα ήταν καλύτερο από ό,τι περιμέναμε, με αυτόν τον τρόπο.","The result was better than we expected, in this way."
+B1-Bridge,"Το αποτέλεσμα ήταν καλύτερο από ό,τι περιμέναμε, χωρίς αμφιβολία.","The result was better than we expected, without a doubt."
+B1-Bridge,"Το αποτέλεσμα ήταν καλύτερο από ό,τι περιμέναμε, κατά τη γνώμη μου.","The result was better than we expected, in my opinion."
+B1-Bridge,"Δεν μου το εξήγησαν με σαφήνεια, για τον λόγο αυτό.","They did not explain it to me clearly, for this reason."
+B1-Bridge,"Δεν μου το εξήγησαν με σαφήνεια, σε αυτή την περίπτωση.","They did not explain it to me clearly, in this case."
+B1-Bridge,"Δεν μου το εξήγησαν με σαφήνεια, με αυτόν τον τρόπο.","They did not explain it to me clearly, in this way."
+B1-Bridge,"Δεν μου το εξήγησαν με σαφήνεια, χωρίς αμφιβολία.","They did not explain it to me clearly, without a doubt."
+B1-Bridge,"Δεν μου το εξήγησαν με σαφήνεια, κατά τη γνώμη μου.","They did not explain it to me clearly, in my opinion."
+B1-Bridge,"Η εμπιστοσύνη που του δείξαμε ήταν σημαντική, για τον λόγο αυτό.","The trust we showed him was important, for this reason."
+B1-Bridge,"Η εμπιστοσύνη που του δείξαμε ήταν σημαντική, σε αυτή την περίπτωση.","The trust we showed him was important, in this case."
+B1-Bridge,"Η εμπιστοσύνη που του δείξαμε ήταν σημαντική, με αυτόν τον τρόπο.","The trust we showed him was important, in this way."
+B1-Bridge,"Η εμπιστοσύνη που του δείξαμε ήταν σημαντική, χωρίς αμφιβολία.","The trust we showed him was important, without a doubt."
+B1-Bridge,"Η εμπιστοσύνη που του δείξαμε ήταν σημαντική, κατά τη γνώμη μου.","The trust we showed him was important, in my opinion."
+B1-Bridge,"Αν και ήταν κουρασμένη, ολοκλήρωσε το έργο, για τον λόγο αυτό.","Although she was tired, she completed the project, for this reason."
+B1-Bridge,"Αν και ήταν κουρασμένη, ολοκλήρωσε το έργο, σε αυτή την περίπτωση.","Although she was tired, she completed the project, in this case."
+B1-Bridge,"Αν και ήταν κουρασμένη, ολοκλήρωσε το έργο, με αυτόν τον τρόπο.","Although she was tired, she completed the project, in this way."
+B1-Bridge,"Αν και ήταν κουρασμένη, ολοκλήρωσε το έργο, χωρίς αμφιβολία.","Although she was tired, she completed the project, without a doubt."
+B1-Bridge,"Αν και ήταν κουρασμένη, ολοκλήρωσε το έργο, κατά τη γνώμη μου.","Although she was tired, she completed the project, in my opinion."
+B1-Bridge,"Η πρόοδος που σημειώσαμε ήταν εντυπωσιακή, για τον λόγο αυτό.","The progress we made was impressive, for this reason."
+B1-Bridge,"Η πρόοδος που σημειώσαμε ήταν εντυπωσιακή, σε αυτή την περίπτωση.","The progress we made was impressive, in this case."
+B1-Bridge,"Η πρόοδος που σημειώσαμε ήταν εντυπωσιακή, με αυτόν τον τρόπο.","The progress we made was impressive, in this way."
+B1-Bridge,"Η πρόοδος που σημειώσαμε ήταν εντυπωσιακή, χωρίς αμφιβολία.","The progress we made was impressive, without a doubt."
+B1-Bridge,"Η πρόοδος που σημειώσαμε ήταν εντυπωσιακή, κατά τη γνώμη μου.","The progress we made was impressive, in my opinion."
+B1-Bridge,"Θα το εξετάσουμε μόλις λάβουμε απάντηση, για τον λόγο αυτό.","We will examine it once we receive a response, for this reason."
+B1-Bridge,"Θα το εξετάσουμε μόλις λάβουμε απάντηση, σε αυτή την περίπτωση.","We will examine it once we receive a response, in this case."
+B1-Bridge,"Θα το εξετάσουμε μόλις λάβουμε απάντηση, με αυτόν τον τρόπο.","We will examine it once we receive a response, in this way."
+B1-Bridge,"Θα το εξετάσουμε μόλις λάβουμε απάντηση, χωρίς αμφιβολία.","We will examine it once we receive a response, without a doubt."
+B1-Bridge,"Θα το εξετάσουμε μόλις λάβουμε απάντηση, κατά τη γνώμη μου.","We will examine it once we receive a response, in my opinion."
+B1-Bridge,"Η συμπεριφορά του προκάλεσε ανησυχία, για τον λόγο αυτό.","His behavior caused concern, for this reason."
+B1-Bridge,"Η συμπεριφορά του προκάλεσε ανησυχία, σε αυτή την περίπτωση.","His behavior caused concern, in this case."
+B1-Bridge,"Η συμπεριφορά του προκάλεσε ανησυχία, με αυτόν τον τρόπο.","His behavior caused concern, in this way."
+B1-Bridge,"Η συμπεριφορά του προκάλεσε ανησυχία, χωρίς αμφιβολία.","His behavior caused concern, without a doubt."
+B1-Bridge,"Η συμπεριφορά του προκάλεσε ανησυχία, κατά τη γνώμη μου.","His behavior caused concern, in my opinion."
+B1-Bridge,"Μας ενημέρωσαν ότι η διαδικασία άλλαξε, για τον λόγο αυτό.","They informed us that the procedure changed, for this reason."
+B1-Bridge,"Μας ενημέρωσαν ότι η διαδικασία άλλαξε, σε αυτή την περίπτωση.","They informed us that the procedure changed, in this case."
+B1-Bridge,"Μας ενημέρωσαν ότι η διαδικασία άλλαξε, με αυτόν τον τρόπο.","They informed us that the procedure changed, in this way."
+B1-Bridge,"Μας ενημέρωσαν ότι η διαδικασία άλλαξε, χωρίς αμφιβολία.","They informed us that the procedure changed, without a doubt."
+B1-Bridge,"Μας ενημέρωσαν ότι η διαδικασία άλλαξε, κατά τη γνώμη μου.","They informed us that the procedure changed, in my opinion."
+B1-Bridge,"Η εμπειρία αυτή ενίσχυσε την αυτοπεποίθησή μου, για τον λόγο αυτό.","This experience strengthened my self-confidence, for this reason."
+B1-Bridge,"Η εμπειρία αυτή ενίσχυσε την αυτοπεποίθησή μου, σε αυτή την περίπτωση.","This experience strengthened my self-confidence, in this case."
+B1-Bridge,"Η εμπειρία αυτή ενίσχυσε την αυτοπεποίθησή μου, με αυτόν τον τρόπο.","This experience strengthened my self-confidence, in this way."
+B1-Bridge,"Η εμπειρία αυτή ενίσχυσε την αυτοπεποίθησή μου, χωρίς αμφιβολία.","This experience strengthened my self-confidence, without a doubt."
+B1-Bridge,"Η εμπειρία αυτή ενίσχυσε την αυτοπεποίθησή μου, κατά τη γνώμη μου.","This experience strengthened my self-confidence, in my opinion."
+B1-Bridge,"Αν συνεχίσουμε έτσι, θα πετύχουμε τον στόχο μας, για τον λόγο αυτό.","If we continue like this, we will achieve our goal, for this reason."
+B1-Bridge,"Αν συνεχίσουμε έτσι, θα πετύχουμε τον στόχο μας, σε αυτή την περίπτωση.","If we continue like this, we will achieve our goal, in this case."
+B1-Bridge,"Αν συνεχίσουμε έτσι, θα πετύχουμε τον στόχο μας, με αυτόν τον τρόπο.","If we continue like this, we will achieve our goal, in this way."
+B1-Bridge,"Αν συνεχίσουμε έτσι, θα πετύχουμε τον στόχο μας, χωρίς αμφιβολία.","If we continue like this, we will achieve our goal, without a doubt."
+B1-Bridge,"Αν συνεχίσουμε έτσι, θα πετύχουμε τον στόχο μας, κατά τη γνώμη μου.","If we continue like this, we will achieve our goal, in my opinion."
+B1,Ανακοινώθηκε ότι η εκδήλωση θα πραγματοποιηθεί την επόμενη εβδομάδα.,It was announced that the event will take place next week.
+B1,Η απόφαση ελήφθη μετά από μακρά συζήτηση.,The decision was made after a long discussion.
+B1,Μου εξήγησε ότι είχε ήδη ολοκληρώσει την εργασία πριν φύγει.,He explained to me that he had already completed the task before leaving.
+B1,Το ζήτημα που εξετάζεται αφορά την προστασία του περιβάλλοντος.,The issue being examined concerns environmental protection.
+B1,"Αν είχε ενημερωθεί νωρίτερα, θα είχε αντιδράσει διαφορετικά.","If he had been informed earlier, he would have reacted differently."
+B1,Η πρόταση απορρίφθηκε επειδή δεν πληρούσε τις προϋποθέσεις.,The proposal was rejected because it did not meet the requirements.
+B1,Εκφράστηκε η άποψη ότι χρειάζονται άμεσες αλλαγές.,The opinion was expressed that immediate changes are needed.
+B1,"Παρά το γεγονός ότι υπήρχαν δυσκολίες, το σχέδιο υλοποιήθηκε.","Despite the fact that there were difficulties, the plan was implemented."
+B1,Η έρευνα που πραγματοποιήθηκε έδειξε θετικά αποτελέσματα.,The research that was conducted showed positive results.
+B1,Είναι πιθανό να υπάρξουν καθυστερήσεις λόγω τεχνικών προβλημάτων.,It is possible that there will be delays due to technical issues.
+B1,Μου είχε υποσχεθεί ότι θα με ενημερώσει εγκαίρως.,He had promised me that he would inform me in time.
+B1,Το έργο ολοκληρώθηκε σύμφωνα με το αρχικό χρονοδιάγραμμα.,The project was completed according to the original schedule.
+B1,Δεν είχε συνειδητοποιήσει πόσο σημαντική ήταν η απόφαση.,He had not realized how important the decision was.
+B1,Η συμφωνία υπογράφηκε παρουσία των εκπροσώπων.,The agreement was signed in the presence of the representatives.
+B1,"Όπως αναφέρθηκε προηγουμένως, η διαδικασία είναι πολύπλοκη.","As mentioned previously, the process is complex."
+B1,Το αίτημα εξετάζεται από την αρμόδια επιτροπή.,The request is being examined by the competent committee.
+B1,Η κατάσταση βελτιώθηκε χάρη στις προσπάθειες της ομάδας.,The situation improved thanks to the efforts of the team.
+B1,"Εφόσον εγκριθεί η πρόταση, θα ξεκινήσει άμεσα η εφαρμογή της.","If the proposal is approved, its implementation will begin immediately."
+B1,Η πληροφορία που δόθηκε αποδείχθηκε ανακριβής.,The information that was given proved to be inaccurate.
+B1,"Σύμφωνα με τις τελευταίες εξελίξεις, αναμένονται αλλαγές.","According to the latest developments, changes are expected."
+B1,Ανακοινώθηκε ότι η εκδήλωση θα πραγματοποιηθεί την επόμενη εβδομάδα στο άμεσο μέλλον.,It was announced that the event will take place next week in the near future.
+B1,Ανακοινώθηκε ότι η εκδήλωση θα πραγματοποιηθεί την επόμενη εβδομάδα υπό συγκεκριμένες συνθήκες.,It was announced that the event will take place next week under specific conditions.
+B1,Ανακοινώθηκε ότι η εκδήλωση θα πραγματοποιηθεί την επόμενη εβδομάδα χωρίς περαιτέρω καθυστέρηση.,It was announced that the event will take place next week without further delay.
+B1,Ανακοινώθηκε ότι η εκδήλωση θα πραγματοποιηθεί την επόμενη εβδομάδα με ιδιαίτερη προσοχή.,It was announced that the event will take place next week with particular attention.
+B1,Ανακοινώθηκε ότι η εκδήλωση θα πραγματοποιηθεί την επόμενη εβδομάδα σε εθνικό επίπεδο.,It was announced that the event will take place next week at a national level.
+B1,Η απόφαση ελήφθη μετά από μακρά συζήτηση στο άμεσο μέλλον.,The decision was made after a long discussion in the near future.
+B1,Η απόφαση ελήφθη μετά από μακρά συζήτηση υπό συγκεκριμένες συνθήκες.,The decision was made after a long discussion under specific conditions.
+B1,Η απόφαση ελήφθη μετά από μακρά συζήτηση χωρίς περαιτέρω καθυστέρηση.,The decision was made after a long discussion without further delay.
+B1,Η απόφαση ελήφθη μετά από μακρά συζήτηση με ιδιαίτερη προσοχή.,The decision was made after a long discussion with particular attention.
+B1,Η απόφαση ελήφθη μετά από μακρά συζήτηση σε εθνικό επίπεδο.,The decision was made after a long discussion at a national level.
+B1,Μου εξήγησε ότι είχε ήδη ολοκληρώσει την εργασία πριν φύγει στο άμεσο μέλλον.,He explained to me that he had already completed the task before leaving in the near future.
+B1,Μου εξήγησε ότι είχε ήδη ολοκληρώσει την εργασία πριν φύγει υπό συγκεκριμένες συνθήκες.,He explained to me that he had already completed the task before leaving under specific conditions.
+B1,Μου εξήγησε ότι είχε ήδη ολοκληρώσει την εργασία πριν φύγει χωρίς περαιτέρω καθυστέρηση.,He explained to me that he had already completed the task before leaving without further delay.
+B1,Μου εξήγησε ότι είχε ήδη ολοκληρώσει την εργασία πριν φύγει με ιδιαίτερη προσοχή.,He explained to me that he had already completed the task before leaving with particular attention.
+B1,Μου εξήγησε ότι είχε ήδη ολοκληρώσει την εργασία πριν φύγει σε εθνικό επίπεδο.,He explained to me that he had already completed the task before leaving at a national level.
+B1,Το ζήτημα που εξετάζεται αφορά την προστασία του περιβάλλοντος στο άμεσο μέλλον.,The issue being examined concerns environmental protection in the near future.
+B1,Το ζήτημα που εξετάζεται αφορά την προστασία του περιβάλλοντος υπό συγκεκριμένες συνθήκες.,The issue being examined concerns environmental protection under specific conditions.
+B1,Το ζήτημα που εξετάζεται αφορά την προστασία του περιβάλλοντος χωρίς περαιτέρω καθυστέρηση.,The issue being examined concerns environmental protection without further delay.
+B1,Το ζήτημα που εξετάζεται αφορά την προστασία του περιβάλλοντος με ιδιαίτερη προσοχή.,The issue being examined concerns environmental protection with particular attention.
+B1,Το ζήτημα που εξετάζεται αφορά την προστασία του περιβάλλοντος σε εθνικό επίπεδο.,The issue being examined concerns environmental protection at a national level.
+B1,"Αν είχε ενημερωθεί νωρίτερα, θα είχε αντιδράσει διαφορετικά στο άμεσο μέλλον.","If he had been informed earlier, he would have reacted differently in the near future."
+B1,"Αν είχε ενημερωθεί νωρίτερα, θα είχε αντιδράσει διαφορετικά υπό συγκεκριμένες συνθήκες.","If he had been informed earlier, he would have reacted differently under specific conditions."
+B1,"Αν είχε ενημερωθεί νωρίτερα, θα είχε αντιδράσει διαφορετικά χωρίς περαιτέρω καθυστέρηση.","If he had been informed earlier, he would have reacted differently without further delay."
+B1,"Αν είχε ενημερωθεί νωρίτερα, θα είχε αντιδράσει διαφορετικά με ιδιαίτερη προσοχή.","If he had been informed earlier, he would have reacted differently with particular attention."
+B1,"Αν είχε ενημερωθεί νωρίτερα, θα είχε αντιδράσει διαφορετικά σε εθνικό επίπεδο.","If he had been informed earlier, he would have reacted differently at a national level."
+B1,Η πρόταση απορρίφθηκε επειδή δεν πληρούσε τις προϋποθέσεις στο άμεσο μέλλον.,The proposal was rejected because it did not meet the requirements in the near future.
+B1,Η πρόταση απορρίφθηκε επειδή δεν πληρούσε τις προϋποθέσεις υπό συγκεκριμένες συνθήκες.,The proposal was rejected because it did not meet the requirements under specific conditions.
+B1,Η πρόταση απορρίφθηκε επειδή δεν πληρούσε τις προϋποθέσεις χωρίς περαιτέρω καθυστέρηση.,The proposal was rejected because it did not meet the requirements without further delay.
+B1,Η πρόταση απορρίφθηκε επειδή δεν πληρούσε τις προϋποθέσεις με ιδιαίτερη προσοχή.,The proposal was rejected because it did not meet the requirements with particular attention.
+B1,Η πρόταση απορρίφθηκε επειδή δεν πληρούσε τις προϋποθέσεις σε εθνικό επίπεδο.,The proposal was rejected because it did not meet the requirements at a national level.
+B1,Εκφράστηκε η άποψη ότι χρειάζονται άμεσες αλλαγές στο άμεσο μέλλον.,The opinion was expressed that immediate changes are needed in the near future.
+B1,Εκφράστηκε η άποψη ότι χρειάζονται άμεσες αλλαγές υπό συγκεκριμένες συνθήκες.,The opinion was expressed that immediate changes are needed under specific conditions.
+B1,Εκφράστηκε η άποψη ότι χρειάζονται άμεσες αλλαγές χωρίς περαιτέρω καθυστέρηση.,The opinion was expressed that immediate changes are needed without further delay.
+B1,Εκφράστηκε η άποψη ότι χρειάζονται άμεσες αλλαγές με ιδιαίτερη προσοχή.,The opinion was expressed that immediate changes are needed with particular attention.
+B1,Εκφράστηκε η άποψη ότι χρειάζονται άμεσες αλλαγές σε εθνικό επίπεδο.,The opinion was expressed that immediate changes are needed at a national level.
+B1,"Παρά το γεγονός ότι υπήρχαν δυσκολίες, το σχέδιο υλοποιήθηκε στο άμεσο μέλλον.","Despite the fact that there were difficulties, the plan was implemented in the near future."
+B1,"Παρά το γεγονός ότι υπήρχαν δυσκολίες, το σχέδιο υλοποιήθηκε υπό συγκεκριμένες συνθήκες.","Despite the fact that there were difficulties, the plan was implemented under specific conditions."
+B1,"Παρά το γεγονός ότι υπήρχαν δυσκολίες, το σχέδιο υλοποιήθηκε χωρίς περαιτέρω καθυστέρηση.","Despite the fact that there were difficulties, the plan was implemented without further delay."
+B1,"Παρά το γεγονός ότι υπήρχαν δυσκολίες, το σχέδιο υλοποιήθηκε με ιδιαίτερη προσοχή.","Despite the fact that there were difficulties, the plan was implemented with particular attention."
+B1,"Παρά το γεγονός ότι υπήρχαν δυσκολίες, το σχέδιο υλοποιήθηκε σε εθνικό επίπεδο.","Despite the fact that there were difficulties, the plan was implemented at a national level."
+B1,Η έρευνα που πραγματοποιήθηκε έδειξε θετικά αποτελέσματα στο άμεσο μέλλον.,The research that was conducted showed positive results in the near future.
+B1,Η έρευνα που πραγματοποιήθηκε έδειξε θετικά αποτελέσματα υπό συγκεκριμένες συνθήκες.,The research that was conducted showed positive results under specific conditions.
+B1,Η έρευνα που πραγματοποιήθηκε έδειξε θετικά αποτελέσματα χωρίς περαιτέρω καθυστέρηση.,The research that was conducted showed positive results without further delay.
+B1,Η έρευνα που πραγματοποιήθηκε έδειξε θετικά αποτελέσματα με ιδιαίτερη προσοχή.,The research that was conducted showed positive results with particular attention.
+B1,Η έρευνα που πραγματοποιήθηκε έδειξε θετικά αποτελέσματα σε εθνικό επίπεδο.,The research that was conducted showed positive results at a national level.
+B1,Είναι πιθανό να υπάρξουν καθυστερήσεις λόγω τεχνικών προβλημάτων στο άμεσο μέλλον.,It is possible that there will be delays due to technical issues in the near future.
+B1,Είναι πιθανό να υπάρξουν καθυστερήσεις λόγω τεχνικών προβλημάτων υπό συγκεκριμένες συνθήκες.,It is possible that there will be delays due to technical issues under specific conditions.
+B1,Είναι πιθανό να υπάρξουν καθυστερήσεις λόγω τεχνικών προβλημάτων χωρίς περαιτέρω καθυστέρηση.,It is possible that there will be delays due to technical issues without further delay.
+B1,Είναι πιθανό να υπάρξουν καθυστερήσεις λόγω τεχνικών προβλημάτων με ιδιαίτερη προσοχή.,It is possible that there will be delays due to technical issues with particular attention.
+B1,Είναι πιθανό να υπάρξουν καθυστερήσεις λόγω τεχνικών προβλημάτων σε εθνικό επίπεδο.,It is possible that there will be delays due to technical issues at a national level.
+B1,Μου είχε υποσχεθεί ότι θα με ενημερώσει εγκαίρως στο άμεσο μέλλον.,He had promised me that he would inform me in time in the near future.
+B1,Μου είχε υποσχεθεί ότι θα με ενημερώσει εγκαίρως υπό συγκεκριμένες συνθήκες.,He had promised me that he would inform me in time under specific conditions.
+B1,Μου είχε υποσχεθεί ότι θα με ενημερώσει εγκαίρως χωρίς περαιτέρω καθυστέρηση.,He had promised me that he would inform me in time without further delay.
+B1,Μου είχε υποσχεθεί ότι θα με ενημερώσει εγκαίρως με ιδιαίτερη προσοχή.,He had promised me that he would inform me in time with particular attention.
+B1,Μου είχε υποσχεθεί ότι θα με ενημερώσει εγκαίρως σε εθνικό επίπεδο.,He had promised me that he would inform me in time at a national level.
+B1,Το έργο ολοκληρώθηκε σύμφωνα με το αρχικό χρονοδιάγραμμα στο άμεσο μέλλον.,The project was completed according to the original schedule in the near future.
+B1,Το έργο ολοκληρώθηκε σύμφωνα με το αρχικό χρονοδιάγραμμα υπό συγκεκριμένες συνθήκες.,The project was completed according to the original schedule under specific conditions.
+B1,Το έργο ολοκληρώθηκε σύμφωνα με το αρχικό χρονοδιάγραμμα χωρίς περαιτέρω καθυστέρηση.,The project was completed according to the original schedule without further delay.
+B1,Το έργο ολοκληρώθηκε σύμφωνα με το αρχικό χρονοδιάγραμμα με ιδιαίτερη προσοχή.,The project was completed according to the original schedule with particular attention.
+B1,Το έργο ολοκληρώθηκε σύμφωνα με το αρχικό χρονοδιάγραμμα σε εθνικό επίπεδο.,The project was completed according to the original schedule at a national level.
+B1,Δεν είχε συνειδητοποιήσει πόσο σημαντική ήταν η απόφαση στο άμεσο μέλλον.,He had not realized how important the decision was in the near future.
+B1,Δεν είχε συνειδητοποιήσει πόσο σημαντική ήταν η απόφαση υπό συγκεκριμένες συνθήκες.,He had not realized how important the decision was under specific conditions.
+B1,Δεν είχε συνειδητοποιήσει πόσο σημαντική ήταν η απόφαση χωρίς περαιτέρω καθυστέρηση.,He had not realized how important the decision was without further delay.
+B1,Δεν είχε συνειδητοποιήσει πόσο σημαντική ήταν η απόφαση με ιδιαίτερη προσοχή.,He had not realized how important the decision was with particular attention.
+B1,Δεν είχε συνειδητοποιήσει πόσο σημαντική ήταν η απόφαση σε εθνικό επίπεδο.,He had not realized how important the decision was at a national level.
+B1,Η συμφωνία υπογράφηκε παρουσία των εκπροσώπων στο άμεσο μέλλον.,The agreement was signed in the presence of the representatives in the near future.
+B1,Η συμφωνία υπογράφηκε παρουσία των εκπροσώπων υπό συγκεκριμένες συνθήκες.,The agreement was signed in the presence of the representatives under specific conditions.
+B1,Η συμφωνία υπογράφηκε παρουσία των εκπροσώπων χωρίς περαιτέρω καθυστέρηση.,The agreement was signed in the presence of the representatives without further delay.
+B1,Η συμφωνία υπογράφηκε παρουσία των εκπροσώπων με ιδιαίτερη προσοχή.,The agreement was signed in the presence of the representatives with particular attention.
+B1,Η συμφωνία υπογράφηκε παρουσία των εκπροσώπων σε εθνικό επίπεδο.,The agreement was signed in the presence of the representatives at a national level.
+B1,"Όπως αναφέρθηκε προηγουμένως, η διαδικασία είναι πολύπλοκη στο άμεσο μέλλον.","As mentioned previously, the process is complex in the near future."
+B1,"Όπως αναφέρθηκε προηγουμένως, η διαδικασία είναι πολύπλοκη υπό συγκεκριμένες συνθήκες.","As mentioned previously, the process is complex under specific conditions."
+B1,"Όπως αναφέρθηκε προηγουμένως, η διαδικασία είναι πολύπλοκη χωρίς περαιτέρω καθυστέρηση.","As mentioned previously, the process is complex without further delay."
+B1,"Όπως αναφέρθηκε προηγουμένως, η διαδικασία είναι πολύπλοκη με ιδιαίτερη προσοχή.","As mentioned previously, the process is complex with particular attention."
+B1,"Όπως αναφέρθηκε προηγουμένως, η διαδικασία είναι πολύπλοκη σε εθνικό επίπεδο.","As mentioned previously, the process is complex at a national level."
+B1,Το αίτημα εξετάζεται από την αρμόδια επιτροπή στο άμεσο μέλλον.,The request is being examined by the competent committee in the near future.
+B1,Το αίτημα εξετάζεται από την αρμόδια επιτροπή υπό συγκεκριμένες συνθήκες.,The request is being examined by the competent committee under specific conditions.
+B1,Το αίτημα εξετάζεται από την αρμόδια επιτροπή χωρίς περαιτέρω καθυστέρηση.,The request is being examined by the competent committee without further delay.
+B1,Το αίτημα εξετάζεται από την αρμόδια επιτροπή με ιδιαίτερη προσοχή.,The request is being examined by the competent committee with particular attention.
+B1,Το αίτημα εξετάζεται από την αρμόδια επιτροπή σε εθνικό επίπεδο.,The request is being examined by the competent committee at a national level.
+B1,Η κατάσταση βελτιώθηκε χάρη στις προσπάθειες της ομάδας στο άμεσο μέλλον.,The situation improved thanks to the efforts of the team in the near future.
+B1,Η κατάσταση βελτιώθηκε χάρη στις προσπάθειες της ομάδας υπό συγκεκριμένες συνθήκες.,The situation improved thanks to the efforts of the team under specific conditions.
+B1,Η κατάσταση βελτιώθηκε χάρη στις προσπάθειες της ομάδας χωρίς περαιτέρω καθυστέρηση.,The situation improved thanks to the efforts of the team without further delay.
+B1,Η κατάσταση βελτιώθηκε χάρη στις προσπάθειες της ομάδας με ιδιαίτερη προσοχή.,The situation improved thanks to the efforts of the team with particular attention.
+B1,Η κατάσταση βελτιώθηκε χάρη στις προσπάθειες της ομάδας σε εθνικό επίπεδο.,The situation improved thanks to the efforts of the team at a national level.
+B1,"Εφόσον εγκριθεί η πρόταση, θα ξεκινήσει άμεσα η εφαρμογή της στο άμεσο μέλλον.","If the proposal is approved, its implementation will begin immediately in the near future."
+B1,"Εφόσον εγκριθεί η πρόταση, θα ξεκινήσει άμεσα η εφαρμογή της υπό συγκεκριμένες συνθήκες.","If the proposal is approved, its implementation will begin immediately under specific conditions."
+B1,"Εφόσον εγκριθεί η πρόταση, θα ξεκινήσει άμεσα η εφαρμογή της χωρίς περαιτέρω καθυστέρηση.","If the proposal is approved, its implementation will begin immediately without further delay."
+B1,"Εφόσον εγκριθεί η πρόταση, θα ξεκινήσει άμεσα η εφαρμογή της με ιδιαίτερη προσοχή.","If the proposal is approved, its implementation will begin immediately with particular attention."
+B1,"Εφόσον εγκριθεί η πρόταση, θα ξεκινήσει άμεσα η εφαρμογή της σε εθνικό επίπεδο.","If the proposal is approved, its implementation will begin immediately at a national level."
+B1,Η πληροφορία που δόθηκε αποδείχθηκε ανακριβής στο άμεσο μέλλον.,The information that was given proved to be inaccurate in the near future.
+B1,Η πληροφορία που δόθηκε αποδείχθηκε ανακριβής υπό συγκεκριμένες συνθήκες.,The information that was given proved to be inaccurate under specific conditions.
+B1,Η πληροφορία που δόθηκε αποδείχθηκε ανακριβής χωρίς περαιτέρω καθυστέρηση.,The information that was given proved to be inaccurate without further delay.
+B1,Η πληροφορία που δόθηκε αποδείχθηκε ανακριβής με ιδιαίτερη προσοχή.,The information that was given proved to be inaccurate with particular attention.
+B1,Η πληροφορία που δόθηκε αποδείχθηκε ανακριβής σε εθνικό επίπεδο.,The information that was given proved to be inaccurate at a national level.
+B1,"Σύμφωνα με τις τελευταίες εξελίξεις, αναμένονται αλλαγές στο άμεσο μέλλον.","According to the latest developments, changes are expected in the near future."
+B1,"Σύμφωνα με τις τελευταίες εξελίξεις, αναμένονται αλλαγές υπό συγκεκριμένες συνθήκες.","According to the latest developments, changes are expected under specific conditions."
+B1,"Σύμφωνα με τις τελευταίες εξελίξεις, αναμένονται αλλαγές χωρίς περαιτέρω καθυστέρηση.","According to the latest developments, changes are expected without further delay."
+B1,"Σύμφωνα με τις τελευταίες εξελίξεις, αναμένονται αλλαγές με ιδιαίτερη προσοχή.","According to the latest developments, changes are expected with particular attention."
+B1,"Σύμφωνα με τις τελευταίες εξελίξεις, αναμένονται αλλαγές σε εθνικό επίπεδο.","According to the latest developments, changes are expected at a national level."

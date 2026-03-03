@@ -1,0 +1,17 @@
+# Generated decks and audio
+*.apkg
+media/
+
+# Piper model binaries (too large for git — download separately)
+*.onnx
+*.wav
+
+# Python
+venv/
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
