@@ -2,9 +2,8 @@
 *.apkg
 media/
 
-# Piper model binaries (too large for git — download separately)
-*.onnx
-*.wav
+# Piper models and artifacts
+piper/
 
 # Python
 venv/
