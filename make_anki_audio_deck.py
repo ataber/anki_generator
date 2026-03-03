@@ -27,7 +27,7 @@ def load_sentences(
     text_column: Optional[str] = None,
     english_column: Optional[str] = None,
     level_column: str = "Level",
-) -> List[Tuple[str, str, str]]:
+) -> Tuple[List[Tuple[str, str, str]], Optional[str]]:
     """
     Load a sentence corpus for Anki.
 
@@ -35,7 +35,8 @@ def load_sentences(
       - JSON: list of [Text, English] OR [Level, Text, English]
       - CSV: header row with at least a text column and an English column.
 
-    Returns: list of (level, text, english).
+    Returns: (list of (level, text, english), resolved_text_column_name).
+    The text column name is None for JSON input.
 
     Column selection (CSV):
       - level_column defaults to "Level" (if missing, "UNK" is used)
@@ -67,7 +68,7 @@ def load_sentences(
             if not txt or not eng:
                 raise ValueError(f"Bad JSON item at {idx}: empty text or English.")
             out.append((lvl, txt, eng))
-        return out
+        return out, None
 
     if ext == ".csv":
         text = path.read_text(encoding="utf-8-sig")
@@ -119,7 +120,7 @@ def load_sentences(
                     f"Bad CSV row {idx}: expected non-empty '{text_column}' + '{english_column}'. Got: {row}"
                 )
             out.append((lvl, txt, eng))
-        return out
+        return out, text_column
 
     raise ValueError(f"Unsupported input type: {path} (expected .json or .csv)")
 
@@ -306,7 +307,7 @@ def main():
     # Processing
     p.add_argument("--limit", type=int, default=0, help="Only process first N sentences (0 = all).")
     p.add_argument("--start-index", type=int, default=1, help="Start numbering audio files at this index.")
-    p.add_argument("--audio-prefix", type=str, default="tts", help="Prefix for audio filenames (default: tts).")
+    p.add_argument("--audio-prefix", type=str, default=None, help="Prefix for audio filenames (default: derived from text column name, e.g. 'spanish').")
     p.add_argument("--overwrite-audio", action="store_true", help="Regenerate audio even if file exists.")
     p.add_argument("--overwrite-apkg", action="store_true", help="Overwrite output .apkg if it exists.")
     p.add_argument("--dry-run", action="store_true", help="Validate without generating anything.")
@@ -342,7 +343,7 @@ def main():
     if output_path.exists() and not args.overwrite_apkg and not args.dry_run:
         die(f"Output exists: {output_path} (use --overwrite-apkg to overwrite)")
 
-    sentences = load_sentences(
+    sentences, resolved_text_column = load_sentences(
         sentences_path,
         text_column=args.text_column,
         english_column=args.english_column,
@@ -352,6 +353,13 @@ def main():
         sentences = sentences[: args.limit]
     if not sentences:
         die("No sentences to process.")
+
+    audio_prefix = args.audio_prefix
+    if audio_prefix is None:
+        if resolved_text_column:
+            audio_prefix = resolved_text_column.lower().replace(" ", "_")
+        else:
+            audio_prefix = "tts"
 
     safe_mkdir(media_dir)
 
@@ -395,7 +403,7 @@ def main():
     work_items = []
     for n, (level, text, english) in enumerate(sentences):
         i = args.start_index + n
-        filename = f"{args.audio_prefix}_{i}.{audio_format}"
+        filename = f"{audio_prefix}_{i}.{audio_format}"
         filepath = media_dir / filename
         work_items.append((i, level, text, english, filename, filepath))
 
