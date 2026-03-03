@@ -29,7 +29,7 @@ export OPENAI_API_KEY=sk-...
 Generate a deck from the included Greek corpus:
 
 ```bash
-python make_anki_audio_deck_new.py \
+python make_anki_audio_deck.py \
   --sentences sentences.json \
   --output greek_deck.apkg
 ```
@@ -37,7 +37,7 @@ python make_anki_audio_deck_new.py \
 Preview what would happen without generating anything:
 
 ```bash
-python make_anki_audio_deck_new.py --dry-run
+python make_anki_audio_deck.py --dry-run
 ```
 
 ## Input Formats
@@ -65,7 +65,7 @@ Column names are auto-detected but can be overridden with `--text-column`, `--en
 ### OpenAI TTS (default)
 
 ```bash
-python make_anki_audio_deck_new.py \
+python make_anki_audio_deck.py \
   --sentences modern_greek_corpus_1000_master.csv \
   --tts openai \
   --openai-voice alloy \
@@ -78,7 +78,7 @@ python make_anki_audio_deck_new.py \
 ### Piper TTS (local, offline)
 
 ```bash
-python make_anki_audio_deck_new.py \
+python make_anki_audio_deck.py \
   --sentences sentences.json \
   --tts piper \
   --piper-model piper/models/el_GR/el_GR-rapunzelina-medium.onnx \
