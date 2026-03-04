@@ -7,6 +7,7 @@ import shutil
 import subprocess
 import sys
 import time
+import zipfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
 from pathlib import Path
@@ -308,6 +309,7 @@ def main():
 
     # Card directions
     p.add_argument("--reverse", action="store_true", help="Add reverse cards (English → target language).")
+    p.add_argument("--reuse-media", type=Path, default=None, help="Extract audio from an existing .apkg instead of running TTS.")
 
     # Deck config
     p.add_argument("--deck-name", type=str, default="Language Sentences (Audio)")
@@ -392,16 +394,6 @@ def main():
         retry_sleep=args.retry_sleep,
     )
 
-    # Upfront validation for Piper
-    if cfg.backend == "piper":
-        if cfg.audio_format != "wav":
-            die("Piper backend outputs WAV. Use --audio-format wav for --tts piper.")
-        if not cfg.piper_model:
-            die("Piper requires --piper-model /path/to/model.onnx")
-        piper_exe = shutil.which(cfg.piper_bin) or cfg.piper_bin
-        if not shutil.which(piper_exe) and not Path(piper_exe).exists():
-            die(f"Could not find Piper executable '{cfg.piper_bin}'. Install piper-tts or ensure 'piper' is in PATH.")
-
     model = build_model(
         args.model_id,
         args.model_name,
@@ -433,8 +425,25 @@ def main():
         print(f"- Output: {output_path}")
         return
 
-    # Create OpenAI client once (reused across all threads)
-    client = _get_openai_client(cfg) if cfg.backend == "openai" else None
+    # --- Extract media from existing .apkg if requested ---
+    if args.reuse_media:
+        apkg_path = args.reuse_media.expanduser().resolve()
+        if not apkg_path.exists():
+            die(f"Source .apkg not found: {apkg_path}")
+        with zipfile.ZipFile(apkg_path, "r") as z:
+            media_map = json.loads(z.read("media"))
+            # Map audio index (from filename suffix like "tts_1.mp3" → 1) to zip entry
+            idx_to_entry = {}
+            for entry_num, orig_name in media_map.items():
+                parts = Path(orig_name).stem.rsplit("_", 1)
+                if len(parts) == 2 and parts[1].isdigit():
+                    idx_to_entry[int(parts[1])] = entry_num
+            extracted = 0
+            for i, _, _, _, _, filepath in work_items:
+                if not filepath.exists() and i in idx_to_entry:
+                    filepath.write_bytes(z.read(idx_to_entry[i]))
+                    extracted += 1
+        print(f"Extracted {extracted} audio files from {apkg_path}")
 
     # --- Audio generation phase (concurrent for OpenAI, sequential for Piper) ---
     to_generate = [
@@ -445,6 +454,17 @@ def main():
     skipped = len(work_items) - len(to_generate)
 
     if to_generate:
+        # Validate TTS backend only when audio actually needs to be generated
+        if cfg.backend == "piper":
+            if cfg.audio_format != "wav":
+                die("Piper backend outputs WAV. Use --audio-format wav for --tts piper.")
+            if not cfg.piper_model:
+                die("Piper requires --piper-model /path/to/model.onnx")
+            piper_exe = shutil.which(cfg.piper_bin) or cfg.piper_bin
+            if not shutil.which(piper_exe) and not Path(piper_exe).exists():
+                die(f"Could not find Piper executable '{cfg.piper_bin}'. Install piper-tts or ensure 'piper' is in PATH.")
+
+        client = _get_openai_client(cfg) if cfg.backend == "openai" else None
         max_workers = max(1, args.workers) if cfg.backend == "openai" else 1
 
         def _gen(item):
